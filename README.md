@@ -1,1 +1,1 @@
-# Owner-avatar-ME5413_Homework3_Planning
+# ME5413_Homework3_Planning

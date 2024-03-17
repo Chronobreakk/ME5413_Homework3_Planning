@@ -18,4 +18,3 @@ plt.imshow(free_space)
 plt.show()
 
 cv2.imwrite("./map/vivocity_freespace.png", free_space)
-print('test')
